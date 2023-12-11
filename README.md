@@ -1,6 +1,6 @@
-<table border="6">
+<table border="1">
 <tr>
-<th>Table header</th><th>Table header</th>
+<th>Sino ako? </th><th>😄</th>
 </tr>
 <tr>
 <td>Toys</td><td>January29</td>

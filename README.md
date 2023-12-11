@@ -1,4 +1,4 @@
-<table border="2">
+<table border="3">
 <tr>
 <th>Table header</th><th>Table header</th>
 </tr>

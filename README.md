@@ -1,4 +1,4 @@
-<table border="1">
+<table border="3">
 <tr>
 <th>Sino ako? </th><th>😄</th>
 </tr>

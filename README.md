@@ -1,11 +1,11 @@
 <table border="3">
 <tr>
-<th>Sino ako? </th><th>😄</th>
+<th>who</th><th>Sino </th>
 </tr>
 <tr>
 <td>Toys</td><td>January29</td>
 </tr>
 <tr>
-<td>15</td><td>Wii</td>
+<td>Fries</td><td>Fries</td>
 </tr>
 </table>
